@@ -1,6 +1,6 @@
 # Intel's libhoudini for Intel x86 CPU, pulled from ChromeOS's arcvm image for `caroline` Chromebooks
 
-`houdini` version = unknown
+`houdini` version = 9.0.7a_y.38597
 
 Octopus Android image fingerprint : google/caroline/caroline_cheets:9/R113-15393.58.0/10061634:user/release-keys
 
