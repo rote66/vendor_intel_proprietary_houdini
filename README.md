@@ -1,14 +1,8 @@
-# Intel's libhoudini for Intel x86 CPU, pulled from ChromeOS's arcvm image for `volteer` Chromebooks
+# Intel's libhoudini for Intel x86 CPU, pulled from ChromeOS's arcvm image for `caroline` Chromebooks
 
-`houdini` version = 13.0.1_y.39489.g
+`houdini` version = unknown
 
-`houdini64` version = 13.0.1_z.39489.g
-
-Octopus Android image fingerprint : google/octopus/octopus_cheets:13/R130-16033.58.0/12608590:user/release-keys
-
-Hatch Android image fingerprint : google/hatch/hatch_cheets:13/R130-16033.58.0/12608590:user/release-keys
-
-Volteer Android image fingerprint : google/volteer/volteer_cheets:13/R130-16033.58.0/12608590:user/release-keys
+Octopus Android image fingerprint : google/caroline/caroline_cheets:9/R113-15393.58.0/10061634:user/release-keys
 
 ## How to include it in your Android-x86 build :
 * To include it, cherry-pick or make this commit as a reference :
