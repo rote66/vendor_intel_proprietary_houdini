@@ -1,8 +1,8 @@
-# Intel's libhoudini for Intel x86 CPU, pulled from ChromeOS's arcvm image for `caroline` Chromebooks
+# Intel's libhoudini for Intel x86 CPU, pulled from ChromeOS's arcvm image for `samus` Chromebooks
 
-`houdini` version = 9.0.7a_y.38597
+`houdini` version = 7.1.1c_y.50033
 
-Octopus Android image fingerprint : google/caroline/caroline_cheets:9/R113-15393.58.0/10061634:user/release-keys
+Samus Android image fingerprint : google/samus/samus_cheets:7.1.1/R79-12607.81.0/6113849:user/release-keys
 
 ## How to include it in your Android-x86 build :
 * To include it, cherry-pick or make this commit as a reference :
